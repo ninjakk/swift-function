@@ -25,3 +25,6 @@ func circleA(radius:Float) -> Float {
 // call
 
 print(circleA(3.5))
+
+
+var sw = "Test22"
